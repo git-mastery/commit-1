@@ -1,11 +1,11 @@
-# EXERCISE NAME
+# commit-1
 
-_Insert exercise description here_
+For this exercise, we will be practicing what was covered in the [Commits](https://git-mastery.github.io/website/docs/commits/)
 
 ## Goal
 
-_Insert exercise goals here_
+Edit the `solution.md` file in this repository to have a non-whitespace text change.
 
 ## Hints
 
-_Insert exercise hints here (if any)_
+1. Make sure you are not just adding a new line
