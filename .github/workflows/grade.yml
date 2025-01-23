@@ -4,6 +4,7 @@ on: pull_request_target
 
 jobs:
   autograding:
+    permissions: write-all
     uses: git-mastery/actions/.github/workflows/grade.yml@main
     with:
       repository: ${{ github.repository }}
